@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, AI, full stack.
 - 🌱 I’m currently learning computer science and informatics
 - 💞️ I’m looking to collaborate on any and all
-- 📫 How to reach me achoteim@gmail.com
+- 📫 How to reach me achoreim@gmail.com
 
 <!---
 achoreim/achoreim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
