@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science and informatics
 - 💞️ I’m looking to collaborate on any and all
 - 📫 How to reach me ahmadchoreim@gmail.com
-- 👀 Please View My current Github account for other projects: [achoreim-umass](github.com/achoreim-umass)
+- 👀 Please View My current Github account for other projects: github.com/achoreim-umass
 
 <!---
 achoreim/achoreim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
