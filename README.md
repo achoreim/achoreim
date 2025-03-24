@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @achoreim
-- 👀 I’m interested in machine learning, AI, full stack.
-- 🌱 I’m currently learning computer science and informatics
-- 💞️ I’m looking to collaborate on any and all
-- 📫 How to reach me ahmadchoreim@gmail.com
-- 👀 Please View My current Github account for other projects: github.com/achoreim-umass
+Hi! I'm Ahmad 👋
+Computer Science Masters Student @ Harvard Extension School
+UMass Amherst 2023 Grad - B.S. in Computer Science
+Passionate about developing Real World Solutions with Ethical Machine Learning
+Feel free to reach out!
+
+LinkedIn: (https://www.linkedin.com/in/ahmad-choreim/)
+Email: AhmadChoreim@gmail.com
 
 <!---
 achoreim/achoreim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
