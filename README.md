@@ -1,4 +1,4 @@
-- Hi! I'm Ahmad 👋
+# Hi! I'm Ahmad 👋
 - Computer Science Masters Student @ Harvard Extension School
 - UMass Amherst 2023 Grad - B.S. in Computer Science
 - Passionate about developing Real World Solutions with Ethical Machine Learning
