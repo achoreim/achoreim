@@ -4,24 +4,27 @@
   I'm Ahmad!
 </h1>
 
-### About Me:
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhuNTdoZ2hzdDJoN2U0eDc1eTVidmQwYTVweDduYzF5aXN4dHN0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFPLtlXfskcbU6tigb/giphy.gif" width="40" style="vertical-align: middle;" alt="Stars"/> About Me:
+
+
 
  - Computer Science Masters Student @ Harvard Extension School
  - UMass Amherst 2023 Grad - B.S. in Computer Science
  - Passionate about developing Real World Solutions with Ethical Machine Learning
 
 
-### Connect with me:
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc2cDNpcjVuN2NwZHM3YnpwZ3pmdTZoZXNwOHdmcGRjMGtldjBjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3C5GOwaqCmDzxODi83/giphy.gif" width="40" style="vertical-align: middle;" alt="Link"/> Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-choreim/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-choreim/) https://www.linkedin.com/in/ahmad-choreim/
 &nbsp;
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:AhmadChoreim@gmail.com) AhmadChoreim@gmail.com
 
+<!-- https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhlOGw2czhvYXFheGhzemZ0czBxZWJlbzd6NWY1cjdubjBrbnZwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif -->
 
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM210MGNsdmFjem5lNm83aG5qdmlsbGgweWpicGhrcXY5bnMzdzlybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0MYGlG4YLB51v0bu/giphy.gif" width="40" style="vertical-align: middle;" alt="Computer"/>  Tech Skills:
 
-# 💻 Tech Stack:
-Languages: 
+### Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -29,14 +32,13 @@ Languages:
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![VHDL](https://img.shields.io/badge/VHDL-%234C709D.svg?style=for-the-badge&logo=V&logoColor=white)
 
-Developer Tools: 
+### Developer Tools: 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Libraries/Frameworks: 
+### Libraries/Frameworks: 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
