@@ -22,20 +22,18 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM210MGNsdmFjem5lNm83aG5qdmlsbGgweWpicGhrcXY5bnMzdzlybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0MYGlG4YLB51v0bu/giphy.gif" width="40" style="vertical-align: middle;" alt="Computer"/>  Tech Skills:
 
-### Languages: 
+## Languages: 
 [![Languages](https://skillicons.dev/icons?i=python,java,javascript,c,mysql,html,css)](https://skillicons.dev)
 
-### Developer Tools: 
+## Developer Tools: 
 [![Developer Tools](https://skillicons.dev/icons?i=postman,github,vim)](https://skillicons.dev)
 
-### Libraries/Frameworks: 
+## Libraries/Frameworks: 
 #### Cloud:
 [![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
 #### Machine Learning:
 [![Machine Learning](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
-#### Frontend:
+#### Frontend, Backend, Databses:
 [![Frontend](https://skillicons.dev/icons?i=react,vue,css,html,javascript)](https://skillicons.dev)
-#### Backend:
 [![Backend](https://skillicons.dev/icons?i=spring,flask,docker,kubernetes)](https://skillicons.dev)
-#### Databases:
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,firebase)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)](https://skillicons.dev)
