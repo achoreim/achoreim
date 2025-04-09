@@ -4,7 +4,7 @@
   I'm Ahmad!
 </h1>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhuNTdoZ2hzdDJoN2U0eDc1eTVidmQwYTVweDduYzF5aXN4dHN0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFPLtlXfskcbU6tigb/giphy.gif" width="40" style="vertical-align: middle;" alt="Stars"/> About Me:
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThjeTdia2szMzMxNWw4ZjRnZjMwZmxlaWwzYnY4ODJ6dGpmNDQ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kI3btilUDBNFrM69Dx/giphy.gif" width="30" style="vertical-align: middle;" alt="Stars"/> About Me:
 
 
 
