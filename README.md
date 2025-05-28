@@ -7,7 +7,7 @@
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThjeTdia2szMzMxNWw4ZjRnZjMwZmxlaWwzYnY4ODJ6dGpmNDQ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kI3btilUDBNFrM69Dx/giphy.gif" width="30" style="vertical-align: middle;" alt="Stars"/> About Me:
 
 
-
+ - Software engineer building and shipping MVPs for startups
  - Computer Science Masters Student @ Harvard Extension School
  - UMass Amherst 2023 Grad - B.S. in Computer Science
  - Passionate about developing Real World Solutions with Ethical Machine Learning
